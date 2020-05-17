@@ -1,0 +1,22 @@
+{
+  "name": "notetaker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EJRobbins/noteTaker.git"
+  },
+  "keywords": [
+    "notes"
+  ],
+  "author": "erica robbins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EJRobbins/noteTaker/issues"
+  },
+  "homepage": "https://github.com/EJRobbins/noteTaker#readme"
+}
